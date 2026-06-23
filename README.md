@@ -6,7 +6,6 @@ This project aims to detect whether an online review is **genuine** or **fake** 
 
 Fake reviews can significantly impact consumer decisions and business reputation. This system analyzes textual reviews, extracts linguistic and statistical features, and classifies reviews as authentic or deceptive.
 ---
-
 ## 🚀 Features
 
 - Text preprocessing and cleaning
