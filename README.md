@@ -5,7 +5,6 @@
 This project aims to detect whether an online review is **genuine** or **fake** using advanced Machine Learning and Natural Language Processing (NLP) techniques.
 
 Fake reviews can significantly impact consumer decisions and business reputation. This system analyzes textual reviews, extracts linguistic and statistical features, and classifies reviews as authentic or deceptive.
-
 ---
 
 ## 🚀 Features
